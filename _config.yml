@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Michigan Applied Robotics Group (MARG)
+author: asteinig
+navbar-links:
+    About: "about"
+

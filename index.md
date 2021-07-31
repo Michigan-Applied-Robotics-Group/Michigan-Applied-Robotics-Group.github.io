@@ -1,7 +1,7 @@
-------
+---
 layout: page
 title: "Michigan Applied Robotics Grop (MARG)"
-------
+---
 # Welcome
 hello
 ## Member Teams:
