@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Michigan Applied Robotics Grop (MARG)"
+layout: default
 ---
 # Welcome
 hello
