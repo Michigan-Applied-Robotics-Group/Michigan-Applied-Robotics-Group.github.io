@@ -24,7 +24,7 @@ Short Description here
 
 ### [Michigan Vertical Flight Techology (MVFT)](https://www.mvft.info/)
 <img src="/assets/imgs/mvft-logo.jpg" alt="mvft-logo" width="200"/>  
-Short Description here
+MVFT is focused on the design, build, and testing of eVTOL aircraft and competes in the Vertical Flight Society's annual Design-Build-Vertical Flight Competition.
 
 ### [StarX](https://starx.engin.umich.edu/)
 <img src="/assets/imgs/starx-logo.jpg" alt="starx-logo" width="100"/>   
